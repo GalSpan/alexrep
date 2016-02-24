@@ -1,0 +1,203 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    height: 720px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+.header {
+    background-image: url(img/shapka.jpg);
+    min-width: 100vw;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+}
+
+
+
+.logo {
+    width: 25vw;
+    height: 25vh;
+    display: inline-block;
+    float: left;
+}
+.logoa {
+    background-image: url(img/logo.png);
+    width: 25vw;
+    height: 25vh;
+    background-repeat: no-repeat;
+    display: inline-block;
+    clear: both;
+    margin: 20% 0 0 25%;
+}
+.menu {
+    width: 15vw;
+    height: 25vh;
+    display: inline-block;
+    float: left;
+}
+.menua {
+    width: 15vw;
+    height: 25vh;
+    clear: both;
+    margin: 50% 0 0 30%;
+}
+.menu1 {
+    width: 15vw;
+    height: 25vh;
+    display: inline-block;
+    float: left;
+}
+.menu1a {
+    width: 15vw;
+    height: 25vh;
+    clear: both;
+    margin: 50% 0 0 10%;
+}
+.menu2 {
+    width: 30vw;
+    height: 25vh;
+    display: inline-block;
+    float: left;
+}
+.menu2a {
+    width: 25vw;
+    height: 25vh;
+    clear: both;
+    margin: 25% 0 0 -5%;
+}
+.menu3 {
+    width: 15vw;
+    height: 25vh;
+    display: inline-block;
+    float: left;
+}
+.menu3a {
+    width: 20vw;
+    height: 25vh;
+    clear: both;
+    margin: 50% 0 0 -65%;
+}
+
+
+
+.info {
+    width: 100vw;
+    height: 50vh;
+    display: inline-block;
+}
+.info1 {
+    width: 25vw;
+    height: 50vh;
+    display: inline-block;
+    float: left;
+}
+.info1a {
+    width: 25vw;
+    height: 50vh;
+    display: inline-block;
+    clear: both;
+    margin: 50% 0 0 0;
+}
+.info2 {
+    width: 25vw;
+    height: 50vh;
+    display: inline-block;
+    float: left;
+}
+.info2a {
+    width: 25vw;
+    height: 50vh;
+    display: inline-block;
+    clear: both;
+    margin: 50% 0 0 0;
+}
+.info3 {
+    width: 25vw;
+    height: 50vh;
+    display: inline-block;
+    float: left;
+}
+.info3a {
+    width: 25vw;
+    height: 50vh;
+    display: inline-block;
+    clear: both;
+    margin: 50% 0 0 0;
+}
+.info4 {
+    width: 25vw;
+    height: 50vh;
+    display: inline-block;
+    float: left;
+}
+.info4a {
+    width: 25vw;
+    height: 50vh;
+    display: inline-block;
+    clear: both;
+    margin: 50% 0 0 0;
+}
+
+
+
+.arrow {
+    width: 100vw;
+    height: 15vh;
+    display: inline-block;
+    float: left;
+}
+.arrow0a {
+    width: 100px;
+    height: 30px;
+    display: inline-block;
+    clear: both;
+    background-image: url(img/darw.png);
+    background-repeat: no-repeat;
+    margin: 5% 0 0 0;
+}
+
+
+
+.bothead {
+    width: 40vw;
+    height: 10vh;
+    display: inline-block;
+    float: left;
+}
+.bothead0a {
+    width: 15vw;
+    height: 25vh;
+    clear: both;
+    margin: 50% 0 0 30%;
+}
+.bothead1 {
+    width: 20%;
+    height: 10%;
+    display: inline-block;
+    float: left;
+}
+.bothead1a {
+    width: 15vw;
+    height: 25vh;
+    clear: both;
+    margin: 50% 0 0 10%;
+}
+.bothead2 {
+    width: 40%;
+    height: 10%;
+    display: inline-block;
+    float: left;
+}
+.bothead2a {
+    width: 25vw;
+    height: 25vh;
+    clear: both;
+    margin: 25% 0 0 -5%;
+}
